@@ -1,12 +1,12 @@
-<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> opa! e aii??  </h2>
-<p>Olá, Me chamo Luis Fernando<br/>E estou começando estudos em Web Dev (HTML, CSS, JAVASCRIPT) - Web Dev loading <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
+<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Olá, Fique a vontade!  </h2>
+<p>Olá, Me chamo Lucas<br/>E e desenvolve nas seguintes linguagens: Java(Eclipse é Intellij),React Nativo(Framework Expor) , JavaScript com Socket.io é Nodejs como framework e com tempo livre gosto de criar alguns jogos simples na Untiy Engine. <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
 <table> <tr>
                  <td>
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
                            <li>💻 Desenvolvedor Front-End</li>
-                        <li>:earth_americas: Aracaju/SE - Brasil</li>
-                       <li>:hourglass: 21 anos de idade</li>
+                        <li>:earth_americas: Santa Catarina/Garuva - Brasil</li>
+                       <li>:hourglass: 16 anos de idade</li>
                    </ul>
                  </td>
                  <td>
