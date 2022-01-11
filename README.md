@@ -6,7 +6,7 @@
                     <ul>
                            <li>💻 Desenvolvedor Front-End</li>
                         <li>:earth_americas: Santa Catarina/Garuva - Brasil</li>
-                       <li>:hourglass: 16 anos de idade</li>
+                       <li>:hourglass: 17 anos de idade</li>
                    </ul>
                  </td>
                  <td>
