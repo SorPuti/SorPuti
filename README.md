@@ -1,4 +1,3 @@
-[![](https://jitpack.io/v/AstroStudios-LTDA/astroEngine-java.svg)](https://jitpack.io/#AstroStudios-LTDA/astroEngine-java)
 <h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Olá, Fique a vontade!  </h2>
 <p>Olá, Me chamo Lucas<br/><p>Linguagens:<p> Java(Eclipse é Intellij),React Nativo(Framework Expor) , JavaScript com Socket.io é Nodejs como framework e com tempo livre gosto de criar alguns jogos simples na Untiy Engine. <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
 <table> <tr>
@@ -7,6 +6,7 @@
                     <ul>
                            <li>💻 Desenvolvedor Front-End</li>
                         <li>:earth_americas: Santa Catarina/Garuva - Brasil</li>
+[![](https://jitpack.io/v/AstroStudios-LTDA/astroEngine-java.svg)](https://jitpack.io/#AstroStudios-LTDA/astroEngine-java)
                        <li>:hourglass: 17 anos de idade</li>
                    </ul>
                  </td>
