@@ -6,7 +6,6 @@
                     <ul>
                            <li>💻 Desenvolvedor Front-End</li>
                         <li>:earth_americas: Santa Catarina/Garuva - Brasil</li>
-[![](https://jitpack.io/v/AstroStudios-LTDA/astroEngine-java.svg)](https://jitpack.io/#AstroStudios-LTDA/astroEngine-java)
                        <li>:hourglass: 17 anos de idade</li>
                    </ul>
                  </td>
