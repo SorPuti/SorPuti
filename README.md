@@ -15,7 +15,7 @@
                    <li>API universeCore</li>
                 </td>
                 <td>
-                     <h4>Me encontre por aqui: </h4>
+                     <h4>Encontre-me: </h4>
                     
   <a href="https://www.instagram.com/srputi_/" target ="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
       <br><br>
