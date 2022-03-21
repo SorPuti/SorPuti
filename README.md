@@ -5,8 +5,8 @@
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
                            <li>💻 Desenvolvedor Front-End</li>
-                        <li>:earth_americas: Santa Catarina/Garuva - Brasil</li>
-                       <li>:hourglass: 17 anos de idade</li>
+                        <li>:earth_americas: SC/Garuva - Brasil</li>
+                       <li>:hourglass: 17 years/li>
                    </ul>
                  </td>
                  <td>
