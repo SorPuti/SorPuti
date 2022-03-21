@@ -12,7 +12,7 @@
                  <td>
                          <h4>  Projeto: </h4>
                    <ul>
-                      <img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"/>
+<img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"/>
                    </ul>
                 </td>
                 <td>
