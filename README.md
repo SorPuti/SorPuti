@@ -5,7 +5,7 @@
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
                            <li>💻 Front-End</li>
-                        <li>:earth_americas: SC/Garuva </li>
+                        <li>:earth_americas: SC/Garuva BR</li>
                        <li>:hourglass: 17 years</li>
                    </ul>
                  </td>
@@ -20,7 +20,7 @@
                     
   <a href="https://www.instagram.com/srputi_/" target ="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
       <br><br>
-  <a href="https://www.linkedin.com/in/lucas-gomes-580b78224/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/sTwJzQbKfN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
                  </td>
                  <td>
                      <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="250px"/>
