@@ -5,8 +5,8 @@
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
                            <li>💻 Front-End</li>
-                        <li>:earth_americas: SC/Garuva</li>
-                       <li>:hourglass: 17 years/li>
+                        <li>:earth_americas: SC/Garuva </li>
+                       <li>:hourglass: 17 years</li>
                    </ul>
                  </td>
                  <td>
