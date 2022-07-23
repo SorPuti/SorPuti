@@ -1,5 +1,5 @@
 <h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Olá, Fique a vontade!  </h2>
-<p>Olá, Me chamo Lucas<br/><p>Linguagens:<p> Java(Eclipse é Intellij), React Nativo(Framework Expor) , JavaScript Socket.io+Nodejs como framework e com tempo livre gosto de criar alguns jogos simples na Untiy Engine. <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
+<p>Atualmente, estou trabalhando com o Java (utilizo o Eclipse, mas também conheço o Intellij) e o React Nativo (framework para criação de aplicações mobile). Além disso, tenho experiência com JavaScript ( Socket.io+Nodejs) e gosto de utilizar a Unity Engine para desenvolver jogos simples.<img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
 <table> <tr>
                  <td>
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
