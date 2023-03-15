@@ -1,31 +1,54 @@
-<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Olá, Fique a vontade!  </h2>
-<p>Atualmente, estou trabalhando com o Java Script (utilizo o Eclipse, mas também conheço o Intellij) e o React Nativo (framework para criação de aplicações mobile). Além disso, tenho experiência com JavaScript ( Socket.io+Nodejs) e gosto de utilizar a Unity Engine para desenvolver jogos simples.<img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
-<table> <tr>
-                 <td>
-                            <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
-                    <ul>
-                           <li>💻 Front-End</li>
-                        <li>:earth_americas: SC/Garuva BR</li>
-                       <li>:hourglass: 17 years</li>
-                   </ul>
-                 </td>
-                 <td>
-                    <h4>Projeto:</h4>
-                   <li>API universeCore</li>
-                </td>
-                <td>
-                     <h4>Encontre-me: </h4>
-                    
-  <a href="https://www.instagram.com/srputi_/" target ="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
-      <br><br>
-  <a href="https://discord.gg/sTwJzQbKfN" target="_blank"> <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-                 </td>
-                 <td>
-                     <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="250px"/>
-                 </td>
-</tr></table>
-<div> 
+### Oie devs 👋
+
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **LUCAS** {
+ val name = "LUCAS GOMES"
+ val acknowledgements = "BACK-END"
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ val primarySkillset = "Designer Pattern, Eclipse IDEA, Unity 3D PostMan, Azure Cloud, Google Cloud, FireBase, Bucket, MongoDb, Mongose Schema, Spring Rest API ..."
+ val languages = listOf("Java", "Html/Css", "JavaScript", "Python", "React");
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/SorPuti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorPuti&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/SorPuti">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SorPuti&show_icons=true&theme=dracula&line_height=27" alt="**Lucas** github stats"/>
+</a>
+
+[website]: https://devchamps.com.br
+[youtube]: https://www.youtube.com/@dev.champs/videos
+[instagram]: https://www.instagram.com/srputi_/?theme=dark
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 Discord User: ! $rPuti_#9947
+
