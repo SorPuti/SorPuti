@@ -3,7 +3,7 @@
 - Java | Spring Boot
 - HTML | CSS | JavaScript
 - Git | GitHub
-- SQL | MongoDB
+- SQL | MongoDB | MySQL
 
 #### 🌱 Atualmente, estou aprendendo:
 
