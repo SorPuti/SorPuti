@@ -47,10 +47,9 @@ Gosto de criar ótimos softwares e me deverti criando plug-ins para um jogo que 
 [instagram]: https://www.instagram.com/srputi_/?theme=dark
 <br>
 
-#### Rede Sociais!
+#### 🚀 Objetivo:
 
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 Discord User: ! $rPuti_#9947
+Contribuir para projetos open source, aprender continuamente e compartilhar conhecimento com a comunidade.
+
+O código transforma ideias em realidade, e estou aqui para criar o futuro com linhas de código! 😊
 
