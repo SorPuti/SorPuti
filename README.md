@@ -1,7 +1,7 @@
 #### 💻 Tecnologias e Ferramentas:
 
 - Java | Spring Boot
-- HTML | CSS | JavaScript
+- HTML | STYLESHETT CSS | JavaScript
 - Git | GitHub
 - SQL | MongoDB | MySQL
 
