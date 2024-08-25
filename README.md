@@ -39,6 +39,7 @@
 [instagram]: https://www.instagram.com/srputi_/?theme=dark
 <br>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vbxcpcvwnoc9gc1ojob0kn7e2)
 #### 🚀 Objetivo:
 
 Contribuir para projetos open source, aprender continuamente e compartilhar conhecimento com a comunidade.
