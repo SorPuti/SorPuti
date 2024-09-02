@@ -7,9 +7,8 @@
 
 #### 🌱 Atualmente, estou aprendendo:
 
-- Desenvolvimento Web Full Stack
-- Práticas de DevOps
-- Arquitetura de Software
+- Desenvolvimento Web Responsivo
+- Curso Superior Técnicod de Defesa Cibernética
 
 ## **Linguagens e Ferramentas:**  
 
