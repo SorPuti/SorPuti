@@ -1,5 +1,4 @@
 #### 💻 Tecnologias e Ferramentas:
-https://www.mediafire.com/file/27zr1am75g5n8wa/Conectar_Itapo%25C3%25A1.zip/file
 
 - Java | Spring Boot
 - HTML | STYLESHETT CSS | JavaScript
