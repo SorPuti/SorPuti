@@ -40,6 +40,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorPuti&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
+
+<h2 align="center">🏆 Conquistas</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SorPuti&theme=gruvbox&margin-w=15&title=-Reviews&rank=-C" alt="trophy" />
+  </a>
+</p>
+
+
 ## 🎵 Now Playing
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=vbxcpcvwnoc9gc1ojob0kn7e2)
