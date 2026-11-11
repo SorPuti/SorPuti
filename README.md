@@ -12,11 +12,15 @@ My work spans enterprise software and open source: from APIs and automation to v
 
 ## Selected work
 
+<img src="assets/projects/talkweave.svg" alt="" width="100%" />
+
 ### [TalkWeave](https://github.com/SorPuti/talkweave) · Learning to build full-duplex voice systems
 
 An open-source tutorial and hands-on lab exploring the foundations of a full-duplex voice engine. It brings together Python code, interactive learning material and a Rust portability starter. The included demonstration uses synthetic audio; it's an engineering learning project, not a pretrained conversational voice.
 
 [Explore the tutorial ↗](https://sorputi.github.io/talkweave/)
+
+<img src="assets/projects/openidea.svg" alt="" width="100%" />
 
 ### [OpenIDEA Collab](https://github.com/SorPuti/openidea-collab) · Collaboration for a native IDE
 
@@ -24,9 +28,13 @@ An experimental collaboration plugin and relay for [OpenIDEA](https://github.com
 
 [Plugin registry proposal ↗](https://github.com/l0ng-ai/openidea-plugins/pull/102) · [OpenIDEA contributions ↗](https://github.com/l0ng-ai/openidea/pulls?q=is%3Apr+author%3ASorPuti)
 
+<img src="assets/projects/pagemap.svg" alt="" width="100%" />
+
 ### [Persistent PageMap](https://github.com/SorPuti/persistent-pagemap) · A structural memory for browser agents
 
 A local SDK for observing and querying web interfaces. It separates what an agent knows from the current state of the page, with validation before actions and adapters for browser and storage integrations.
+
+<img src="assets/projects/stride.svg" alt="" width="100%" />
 
 ### [Stride](https://github.com/SorPuti/core-framework) · A Python framework for APIs
 
